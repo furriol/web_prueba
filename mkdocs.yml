@@ -1,0 +1,9 @@
+site_name: Actividades DWES
+nav:
+    - Home: index.md
+    - Parte 1: tasca40.md
+    - Parte 2: tasca41.md
+    - Parte 3: tasca42.md
+theme: material
+markdown_extensions:
+    - admonition
